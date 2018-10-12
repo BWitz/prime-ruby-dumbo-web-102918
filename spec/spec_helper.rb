@@ -14,3 +14,12 @@ RSpec.configure do |config|
   #     --seed 1234
   # config.order = 'random'
 end
+
+#def prime?(int)
+#test_integers = 3..(int/2).ceil
+#test_integers.each do |num|
+#  if int % num == 0
+#    return true
+#  end
+#end
+#end
